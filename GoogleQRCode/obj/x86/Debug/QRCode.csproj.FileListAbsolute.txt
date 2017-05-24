@@ -1,0 +1,23 @@
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\bin\Debug\GoogleQRCode.exe
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\bin\Debug\GoogleQRCode.pdb
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\bin\Debug\QRCodeProvider.dll
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\bin\Debug\QRCodeProvider.pdb
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.MainForm.resources
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.Properties.Resources.resources
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.exe
+C:\VS PROJECT\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.pdb
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.exe
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.pdb
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\bin\Debug\GoogleQRCode.exe
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\bin\Debug\GoogleQRCode.pdb
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\bin\Debug\QRCodeProvider.dll
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\bin\Debug\QRCodeProvider.pdb
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\obj\x86\Debug\QRCode.csprojResolveAssemblyReference.cache
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.MainForm.resources
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.Properties.Resources.resources
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\GoogleQRCode\obj\x86\Debug\QRCode.csproj.GenerateResource.Cache
+D:\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.exe
+D:\GoogleQRCode\GoogleQRCode\obj\x86\Debug\GoogleQRCode.pdb

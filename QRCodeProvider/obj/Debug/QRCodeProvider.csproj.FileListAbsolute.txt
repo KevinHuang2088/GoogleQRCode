@@ -1,0 +1,9 @@
+C:\VS PROJECT\GoogleQRCode\QRCodeProvider\bin\Debug\QRCodeProvider.dll
+C:\VS PROJECT\GoogleQRCode\QRCodeProvider\bin\Debug\QRCodeProvider.pdb
+C:\VS PROJECT\GoogleQRCode\QRCodeProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\VS PROJECT\GoogleQRCode\QRCodeProvider\obj\Debug\QRCodeProvider.dll
+C:\VS PROJECT\GoogleQRCode\QRCodeProvider\obj\Debug\QRCodeProvider.pdb
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\QRCodeProvider\bin\Debug\QRCodeProvider.dll
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\QRCodeProvider\bin\Debug\QRCodeProvider.pdb
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\QRCodeProvider\obj\Debug\QRCodeProvider.dll
+C:\Users\Kevin-JH_Huang\Desktop\GoogleQRCode\QRCodeProvider\obj\Debug\QRCodeProvider.pdb
